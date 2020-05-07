@@ -21,7 +21,7 @@ pip install playsound
 pip install gTTS
 ```
 
-Don't forget to install ([FFmpeg](https://www.ffmpeg.org/download.html)) and don't forget to Add To PATH
+Don't forget to install [FFmpeg](https://www.ffmpeg.org/download.html) and don't forget to Add To PATH
 
 ## License And Copyright
 
