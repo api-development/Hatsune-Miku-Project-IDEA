@@ -13,7 +13,7 @@ tts.save("input.mp3")
 sound = AudioSegment.from_file('input.mp3', format="mp3")
 
 # Customize
-octaves = 0.2
+octaves = 0.25
 
 new_sample_rate = int(sound.frame_rate * (2.0 ** octaves))
 
