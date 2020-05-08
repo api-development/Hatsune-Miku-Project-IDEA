@@ -19,9 +19,6 @@ pip install wheel
 pip install pydub
 ```
 ```
-pip install playsound
-```
-```
 pip install gTTS
 ```
 
