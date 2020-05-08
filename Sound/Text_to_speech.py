@@ -5,7 +5,7 @@ from pydub.playback import play
 import os
 
 #Generate Sound File With Google Text To Speak
-tts = gTTS(text='Miku, Miku, you can call me Miku', lang='en', slow=False)
+tts = gTTS(text='Hello What The Fucker', lang='th', slow=False)
 tts.save("input.mp3")
 
 # Customize Sound
@@ -14,7 +14,7 @@ sound = AudioSegment.from_file('input.mp3', format="mp3")
 # Remove Input File
 os.remove("input.mp3")
 
-octaves = 0.25
+octaves = 0.3
 
 new_sample_rate = int(sound.frame_rate * (3.0 ** octaves))
 
@@ -24,3 +24,6 @@ hipitch_sound = hipitch_sound.set_frame_rate(44100)
 
 #Play Sound
 play(hipitch_sound)
+
+#Save File
+#hipitch_sound.export("output.mp3", format="mp3") #Optional
