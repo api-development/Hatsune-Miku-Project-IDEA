@@ -11,7 +11,8 @@ tts.save("input.mp3")
 # Customize Sound
 sound = AudioSegment.from_file('input.mp3', format="mp3")
 
-#os.remove("input.mp3")  # removefile
+# Remove Input File
+os.remove("input.mp3")
 
 octaves = 0.25
 
@@ -21,5 +22,5 @@ hipitch_sound = sound._spawn(sound.raw_data, overrides={'frame_rate': new_sample
 
 hipitch_sound = hipitch_sound.set_frame_rate(44100)
 
-#playsound
+#Play Sound
 play(hipitch_sound)
