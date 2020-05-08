@@ -11,7 +11,7 @@ tts.save("input.mp3")
 # Customize Sound
 sound = AudioSegment.from_file('input.mp3', format="mp3")
 
-os.remove("input.mp3")  # removefile
+#os.remove("input.mp3")  # removefile
 
 octaves = 0.25
 
