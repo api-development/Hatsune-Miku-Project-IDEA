@@ -4,4 +4,10 @@
 2.หุ่นยนต์ต้องเชื่อฟังคำสั่งที่ได้รับจากผู้ที่เป็นมนุษย์ เว้นแต่คำสั่งนั้นๆ ขัดแย้งกับกฎข้อแรก
 3.หุ่นยนต์ต้องปกป้องสถานะความมีตัวตนของตนไว้ ตราบเท่าที่การกระทำนั้นมิได้ขัดแย้งต่อกฎข้อแรกหรือกฎข้อที่สอง
 
+
+1.A robot may not harm a human being, or, through inaction, allow a human being to come to harm.
+2.A robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.
+3.A robot must protect its own existence, as long as such protection does not conflict with the First or Second Law.
+
+
 Verion.1.0
