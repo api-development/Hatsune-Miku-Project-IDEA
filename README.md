@@ -27,4 +27,4 @@ Don't forget to install [FFmpeg](https://www.ffmpeg.org/download.html) and don't
 ## License And Copyright
 
 ### ([Api Development License](https://github.com/Apiphoom)) Copyright © 2020 Api Development
-### ([Hushub License](https://github.com/Hushub/License)) Copyright © 2020 Hushub
+### ([Hushub License](https://hushub.netlify.app/license/)) Copyright © 2020 Hushub
