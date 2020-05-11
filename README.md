@@ -24,7 +24,7 @@ pip install gTTS
 
 Don't forget to install [FFmpeg](https://www.ffmpeg.org/download.html) and don't forget to Add To PATH
 
-## License And Copyright
+## License and Copyright
 
 ### ([Api Development License](https://github.com/Apiphoom)) Copyright © 2020 Api Development
 ### ([Hushub License](https://hushub.netlify.app/license/)) Copyright © 2020 Hushub
