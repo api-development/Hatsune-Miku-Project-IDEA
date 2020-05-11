@@ -28,4 +28,3 @@ Don't forget to install [FFmpeg](https://www.ffmpeg.org/download.html) and don't
 
 ### ([Api Development License](https://github.com/Apiphoom)) Copyright © 2020 Api Development
 ### ([Hushub License](https://github.com/Hushub/License)) Copyright © 2020 Hushub
-### ([Lightkrub License](https://github.com/Lightkrub/License)) Copyright © 2020 Lightkrub
