@@ -11,19 +11,6 @@ Hutsune Miku project (Api Development)
 # Hand Kinematic / Axis
 ![2-Figure1-1](https://user-images.githubusercontent.com/48949523/81265574-88d95180-906d-11ea-9dd8-9a53a5da20a8.png)
 
-# Pip install Python (Sound Part)
-```
-pip install wheel
-```
-```
-pip install pydub
-```
-```
-pip install gTTS
-```
-
-Don't forget to install [FFmpeg](https://www.ffmpeg.org/download.html) and don't forget to Add To PATH
-
 ## License and Copyright
 
 ### ([Api Development License](https://github.com/Apiphoom)) Copyright © 2020 Api Development
