@@ -5,7 +5,7 @@ from pydub.playback import play
 import os
 
 #Generate Sound File With Google Text To Speak
-tts = gTTS(text='Hello What The Fucker', lang='th', slow=False)
+tts = gTTS(text='Hello Hatsune miku!', lang='th', slow=False)
 tts.save("input.mp3")
 
 # Customize Sound
