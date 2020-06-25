@@ -1,5 +1,5 @@
 # Hatsune Miku-project (IDEA)
-Hatsune Miku project (Api Development)
+Hatsune Miku project (Api Development) X (DEV-X US)
 
 # Shoulder and Arm Kinematic / Axis
 ![IMG_1978](https://user-images.githubusercontent.com/48949523/81264998-89251d00-906c-11ea-976b-9d7c95c3708f.PNG)
