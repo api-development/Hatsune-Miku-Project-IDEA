@@ -11,6 +11,11 @@ Hatsune Miku project (Api Development)
 # Hand Kinematic / Axis
 ![2-Figure1-1](https://user-images.githubusercontent.com/48949523/81265574-88d95180-906d-11ea-9dd8-9a53a5da20a8.png)
 
+# Boundary conditions and states of inverted pendulum (Dynamic walking)
+
+![Boundary-conditions-and-states-of-inverted-pendulum-model-a-and-b-Postures-and](https://user-images.githubusercontent.com/48949523/85649077-64dcd880-b6cc-11ea-8650-0ad2e6109858.png)
+
+
 # Pip install Python (Sound Part) [Legacy]
 ```
 pip install wheel
